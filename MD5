@@ -1,0 +1,16 @@
+f399682f210bb121e42701fd1446c6b9 *DESCRIPTION
+53e189a29ac32df3e7d173b8f6ca2d23 *NAMESPACE
+affa3c795f6283984136815b04d20ad6 *R/numCI.R
+38390218191ddc270b8b8f9b0e275bfe *man/ExactNumCI-package.Rd
+1a9e7e6c592ad72438ea472ffb498bb5 *man/numCI.Rd
+5d87edb0d27b326d43c949c2c74be585 *man/pdiff.Rd
+ec49b73ac14c042edf121ac1c5d5b9ce *man/pdiffCI.Rd
+d181398498a6e361c07bea43e37d9361 *man/singleCI.Rd
+d6f6999cbac04533430a99559df89574 *src/Makevars
+d03fbe557dba27502c9bb5fffabb408d *src/Makevars.win
+9d03f773a63657e3214173ddce7ff4fc *src/numCI.cpp
+66a29acdc00e85b7982edd75707ced08 *src/numCI.h
+9e9a11fd479a18fdeb957a2c6ed634c3 *src/stats.cpp
+bcb8ffeb909f7e70c351c375393d18c6 *src/stats.h
+3110d1a7b772356a523052e63ddba76b *src/types.cpp
+9477c7cecf081d2799ee0f291aee0f90 *src/types.h
